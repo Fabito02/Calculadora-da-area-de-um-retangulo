@@ -1,2 +1,2 @@
-# Calculadora-da-rea-de-um-ret-ngulo
+# Calculadora-da-area-de-um-retangulo
 Calculadora de Àrea
